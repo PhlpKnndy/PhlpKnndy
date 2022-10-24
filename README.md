@@ -1,3 +1,5 @@
+![](./banner.png)
+
 ### About Me
 
 I’m Philip from the United Kingdom, and I’m an aspiring front-end web developer. I graduated from university in the winter of 2021, achieving a BSc in Cyber Security & Networking. Therefore, this newfound passion for web development is a slight deviation from what I had initially planned – career-wise.
